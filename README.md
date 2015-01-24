@@ -16,3 +16,8 @@ study-group-doc
   * 3.パッケージ管理ツールの紹介(HomeBrew,Chocolatey)
   * 4.情報収集サイト紹介(Qiita,SlideShare)
   * 5.質の良いコードを書く(前回の続き)
+
+* [2015.01.13 - 勉強会メモ](https://github.com/nesheep5/study-group-doc/blob/master/20150113.md)
+  * 1.テストを自動化しよう
+  * 2.おすすめイベント紹介
+  * 3.質の良いコードを書く(前回の続き)
