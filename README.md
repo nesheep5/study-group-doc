@@ -30,5 +30,5 @@ study-group-doc
 
 * [2015.02.09 - 勉強会メモ](https://github.com/nesheep5/study-group-doc/blob/master/20150209.md)
   * 1.ドットインストールを利用して学ぶ
-  * 2.仮装本番環境を開発端末に作成する(Vagrant)
+  * 2.仮想本番環境を開発端末に作成する(Vagrant)
   * 3.質の良いコードを書く(前回の続き)
